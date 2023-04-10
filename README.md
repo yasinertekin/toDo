@@ -16,7 +16,7 @@ Uygulamayı başlatın: npm start
 
 # Ekran Görüntüleri
 ![github](/assets/screen.jpg)
-![github](/assets/screen1.jpg)
+![github](/assets/screen1.png)
 
 
 
