@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/toDo/static/js/main.873b2bd9.js",
+    "static/js/273.9531a4d6.js": "/toDo/static/js/273.9531a4d6.js",
+    "favicon.ico": "/toDo/favicon.ico",
+    "index.html": "/toDo/index.html",
+    "favicon-32.png": "/toDo/favicon-32.png",
+    "favicon-16.png": "/toDo/favicon-16.png",
+    "serve.json": "/toDo/serve.json",
+    "manifest.json": "/toDo/manifest.json",
+    "main.873b2bd9.js.map": "/toDo/static/js/main.873b2bd9.js.map",
+    "273.9531a4d6.js.map": "/toDo/static/js/273.9531a4d6.js.map"
+  },
+  "entrypoints": [
+    "static/js/273.9531a4d6.js",
+    "static/js/main.873b2bd9.js"
+  ]
+}
